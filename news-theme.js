@@ -166,8 +166,7 @@ const jo = {};
         ct = "theme",
         a7 = "firebase",
         w = "8.4.2",
-        cY = typeof licenseKey !== dg ? licenseKey : "",
-        c = typeof firebaseUrl !== dg ? firebaseUrl : "",
+       
         bV = typeof safeAds !== dg ? safeAds : false,
         b5 = typeof limitAdsClick !== dg ? limitAdsClick : 3,
         bj = typeof timeAdsClick !== dg ? timeAdsClick : 10,
