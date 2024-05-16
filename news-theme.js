@@ -178,8 +178,8 @@ const jo = {};
         ar = typeof ignoreSafeLink !== dg ? ignoreSafeLink : "",
         af = "member",
         cF = "app",
-        W = "",
-        bD = "",
+        W = "please",
+        bD = "license",
         bd = "Newspaper";
 
     function R(j, i) {
